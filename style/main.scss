@@ -63,7 +63,7 @@ footer{
     text-align: center;
     color: #fefef5;
     font-size: 2.5em;
-    padding-top:150px;
+    padding-top:0px;
   }
 
   .divType1{
@@ -167,7 +167,7 @@ footer{
      height:600px;
      width:100%;
      float:left;
-     margin-top:-522px;
+     margin-top:-373px;
      opacity:0;
  }
 
@@ -822,7 +822,7 @@ footer{
   header{
     height:60px;
     position: fixed;
-    margin-top:-20px;
+    margin-top:20px;
     ul{
       margin-left: 30%;
       li{
@@ -833,4 +833,642 @@ footer{
       }
     }
   }
+
+  #mobileNav{
+    display:none;
+    position: fixed;
+    width:100%;
+    height:100%;
+    background-color: #3a3a3a;
+    margin-top:0%;
+    a{
+      text-decoration: none;
+      color:#fefef5;
+      display:block;
+      text-align: center;
+      font-size: 3em;
+      margin-top:5%;
+      margin-bottom:5%;
+    }
+    #closer{
+      width:8%;
+      margin-top:3%;
+      margin-left:4%;
+    }
+  }
+
+  #opener{
+    display:block;
+    width:8%;
+    float:right;
+    margin-top:1%;
+    margin-right:4%;
+  }
+
+  #mainNav{
+    display: none;
+  }
+
+  #splashtext{
+    margin-top:0px;
+    font-size: 2.2em;
+  }
+  #splashImage{
+    height:700px;
+  }
+
+  #apara1{
+    width:80%;
+    margin-left: 10%;
+    margin-top:-20px;
+    font-size: 1em;
+    height:220px;
+    overflow: scroll;
+  }
+
+  #aphoto1{
+    width:80%;
+    height:250px;
+    margin-left:10%;
+    margin-top:5px;
+  }
+
+  #apara2{
+    width:80%;
+    margin-left: 10%;
+    margin-top:-20px;
+    font-size: 1em;
+    height:220px;
+    overflow: scroll;
+  }
+
+  #aphoto2{
+    width:80%;
+    height:250px;
+    margin-left:10%;
+    margin-top:5px;
+  }
+
+  #hairMain{
+    height:400px;
+    width:100%;
+  }
+
+  #wardrobeMain{
+    height:400px;
+    width:100%;
+  }
+
+  .mainLinkText{
+    padding-top: 0px;
+    margin-top: 150px;
+  }
+
+  .pinkFade{
+    height:380px;
+    margin-top: -224px;
+  }
+
+  #ctext{
+    font-size: 2em;
+    width: 85%;
+    margin-left: 0px;
+    line-height: 55px;
+    text-align: left;
+    margin-left: 10%;
+    padding-top:0px;
+  }
+
+  #larrow{
+    width:10%;
+    float:left;
+    margin-top:150px;
+    margin-left:10px;
+  }
+
+  #txtContainer{
+    float:left;
+    width:70%;
+    color: #fefef5;
+    font-size: 1em;
+    line-height: 30px;
+    margin-top:50px;
+    margin-right:0px;
+    height:400px;
+    overflow: scroll;
+    margin-left:3%;
+  }
+
+  #rarrow{
+    width:10%;
+    float:right;
+    margin-top:155px;
+  }
+
+  #hi3{
+    display: none;
+  }
+
+  #hi2{
+    display: none;
+  }
+
+  .hairImage{
+    width:100%;
+    margin-top:60px;
+    height:700px;
+  }
+
+  #hairInformation{
+    font-size: 0.8em;
+  }
+
+  #hairInformation{
+   div{
+     padding-bottom: 150px;
+    p{
+      width:70%;
+      font-size: 1.2em;
+      line-height: 30px;
+      padding-top:0px;
+      margin-left: 100px;
+      text-align: center;
+      color: #fefef5;
+    }
+  }
+  }
+
+  #prices{
+    margin-top: 480px;
+    h1{
+      color: #3a3a3a;
+      font-size: 3em;
+      padding-top:0px;
+      margin-left:50px;
+    }
+    ul{
+      list-style: none;
+      font-size: 1em;
+      line-height:50px;
+      float:left;
+      margin-top:-10px;
+      margin-right:100px;
+    }
+  }
+
+  #wInformation{
+    margin-bottom: -80%;
+    div{
+      background-color: #3a3a3a;
+      padding-bottom: 30px;
+    p{
+      width:70%;
+      font-size: 1.2em;
+      line-height: 33px;
+      padding-top:0px;
+      margin-left: 15%;
+      height:300px;
+      overflow: scroll;
+      text-align: left;
+      color: #fefef5;
+      padding-bottom:0px;
+      padding-top: 30px;
+    }
+  }
+}
+
+#c{
+  margin-top:-33px;
+  h1{
+    font-size:2em;
+    color:#fefef5;
+    float:left;
+    margin-left:80px;
+    margin-right:20px;
+    padding-top:0px;
+  }
+  iframe{
+   width:80%;
+   height:70%;
+   float:right;
+   margin-right:10%;
+   margin-top:4%;
+  }
+}
+
+#c2{
+  color:#3a3a3a;
+  ul{
+    list-style: none;
+    float:left;
+    font-size:1.6em;
+    line-height: 50px;
+    margin-left: 26%;
+    padding-top:30px;
+  }
+}
+
+#clock{
+  margin-left:30%;
+  margin-top:0px;
+  width:40%;
+
+}
+
+#c3{
+  color:#fefef5;
+  line-height: 0px;
+  padding-left:0px;
+}
+
+#phone{
+  margin-left:25%;
+  margin-top: 0%;
+  width:50%;
+}
+
+#call{
+  padding-top:0px;
+  margin-left:30%;
+  line-height: 70px;
+  font-size: 1.8em;
+}
+
+#emailHeader{
+  margin-left: 23%;
+  font-size: 1.7em;
+  line-height: 50px;
+  color:#3a3a3a;
+  padding-top:0px;
+  margin-top: 50px;
+}
+
+#email{
+  margin-left:25%;
+  margin-top:0px;
+  width:50%;
+}
+
+#c4{
+  margin-top:-30px;
+}
+
+
+
+
+}
+
+@media only screen and (max-width: 768px){
+  header{
+    height:80px;
+    position: fixed;
+    margin-top:20px;
+    ul{
+      margin-left: 30%;
+      li{
+        color: #fefef5;
+        display:inline;
+        font-size:2.1em;
+        margin-right:50px;
+      }
+    }
+  }
+
+  #mobileNav{
+    display:none;
+    position: fixed;
+    width:100%;
+    height:100%;
+    background-color: #3a3a3a;
+    margin-top:0%;
+    a{
+      text-decoration: none;
+      color:#fefef5;
+      display:block;
+      text-align: center;
+      font-size: 3em;
+      margin-top:5%;
+      margin-bottom:5%;
+    }
+    #closer{
+      width:8%;
+      margin-top:3%;
+      margin-left:4%;
+    }
+  }
+
+  #opener{
+    display:block;
+    width:8%;
+    float:right;
+    margin-top:1%;
+    margin-right:4%;
+  }
+
+  #mainNav{
+    display: none;
+  }
+
+  #splashtext{
+    margin-top:0px;
+    font-size: 2.2em;
+  }
+  #splashImage{
+    height:700px;
+  }
+
+  #apara1{
+    width:80%;
+    margin-left: 10%;
+    margin-top:-20px;
+    font-size: 1em;
+    height:220px;
+    overflow: scroll;
+  }
+
+  #aphoto1{
+    width:80%;
+    height:250px;
+    margin-left:10%;
+    margin-top:5px;
+  }
+
+  #apara2{
+    width:80%;
+    margin-left: 10%;
+    margin-top:-20px;
+    font-size: 1em;
+    height:220px;
+    overflow: scroll;
+  }
+
+  #aphoto2{
+    width:80%;
+    height:250px;
+    margin-left:10%;
+    margin-top:5px;
+  }
+
+  #hairMain{
+    height:400px;
+    width:100%;
+  }
+
+  #wardrobeMain{
+    height:400px;
+    width:100%;
+  }
+
+  .mainLinkText{
+    padding-top: 0px;
+    margin-top: 150px;
+  }
+
+  .pinkFade{
+    height:380px;
+    margin-top: -224px;
+  }
+
+  #ctext{
+    font-size: 2em;
+    width: 85%;
+    margin-left: 0px;
+    line-height: 55px;
+    text-align: left;
+    margin-left: 10%;
+    padding-top:0px;
+  }
+
+  #larrow{
+    width:10%;
+    float:left;
+    margin-top:150px;
+    margin-left:10px;
+  }
+
+  #txtContainer{
+    float:left;
+    width:70%;
+    color: #fefef5;
+    font-size: 1em;
+    line-height: 30px;
+    margin-top:50px;
+    margin-right:0px;
+    height:400px;
+    overflow: scroll;
+    margin-left:3%;
+  }
+
+  #rarrow{
+    width:10%;
+    float:right;
+    margin-top:155px;
+  }
+
+  #hi3{
+    display: none;
+  }
+
+  #hi2{
+    display: inline;
+  }
+
+  .hairImage{
+    width:50%;
+    margin-top:60px;
+    height:500px;
+  }
+
+  #hairInformation{
+    font-size: 1em;
+  }
+
+  #hairInformation{
+   div{
+     padding-bottom: 150px;
+    p{
+      width:70%;
+      font-size: 1.2em;
+      line-height: 30px;
+      padding-top:0px;
+      margin-left: 100px;
+      text-align: center;
+      color: #fefef5;
+    }
+  }
+  }
+
+  #prices{
+    margin-top: 430px;
+    h1{
+      color: #3a3a3a;
+      font-size: 3em;
+      padding-top:0px;
+      margin-left:50px;
+    }
+    ul{
+      list-style: none;
+      font-size: 1em;
+      line-height:50px;
+      float:left;
+      margin-top:-10px;
+      margin-right:100px;
+    }
+  }
+
+  #wInformation{
+    margin-bottom: -56%;
+    div{
+      background-color: #3a3a3a;
+      padding-bottom: 30px;
+    p{
+      width:70%;
+      font-size: 1.2em;
+      line-height: 33px;
+      padding-top:0px;
+      margin-left: 15%;
+      height:300px;
+      overflow: scroll;
+      text-align: left;
+      color: #fefef5;
+      padding-bottom:0px;
+      padding-top: 30px;
+    }
+  }
+}
+
+#c{
+  margin-top:-33px;
+  h1{
+    font-size:2em;
+    color:#fefef5;
+    float:left;
+    margin-left:80px;
+    margin-right:20px;
+    padding-top:0px;
+  }
+  iframe{
+   width:80%;
+   height:70%;
+   float:right;
+   margin-right:10%;
+   margin-top:4%;
+  }
+}
+
+#c2{
+  color:#3a3a3a;
+  ul{
+    list-style: none;
+    float:left;
+    font-size:1.6em;
+    line-height: 50px;
+    margin-left: 26%;
+    padding-top:30px;
+  }
+}
+
+#clock{
+  margin-left:30%;
+  margin-top:0px;
+  width:40%;
+
+}
+
+#c3{
+  color:#fefef5;
+  line-height: 0px;
+  padding-left:0px;
+}
+
+#phone{
+  margin-left:30%;
+  margin-top: 0%;
+  width:40%;
+}
+
+#call{
+  line-height: 50px;
+  font-size: 1.5em;
+  padding-top: 5%;
+}
+
+#emailHeader{
+  margin-left: 23%;
+  font-size: 1.7em;
+  line-height: 50px;
+  color:#3a3a3a;
+  padding-top:0px;
+  margin-top: 50px;
+}
+
+#email{
+  margin-left:25%;
+  margin-top:0px;
+  width:50%;
+}
+
+#c4{
+  margin-top:-30px;
+}
+
+#wardrobeImage{
+  height:550px;
+}
+
+}
+
+@media only screen and (max-width: 1280px){
+  #mainNav{
+    padding-left: 270px;
+  }
+
+  header{
+    height:105px;
+  }
+
+  .hairImage{
+    width:33.3%;
+    float:left;
+    margin-top:130px;
+    height:700px;
+    margin-bottom:4%;
+  }
+
+  #wInformation{
+    margin-bottom: -70%;
+    div{
+      background-color: #3a3a3a;
+    }
+    p{
+      width:70%;
+      font-size: 1.5em;
+      line-height: 40px;
+      padding-top:40px;
+      margin-left: 190px;
+      text-align: center;
+      color: #fefef5;
+      padding-bottom:100px;
+    }
+  }
+
+  #phone{
+    margin-left:160px;
+  }
+
+  #emailHeader{
+    font-size: 2em;
+    line-height: 70px;
+    color:#3a3a3a;
+    margin-left: 700px;
+  }
+
+  #email{
+    margin-left:300px;
+  }
+
+  #call{
+    margin-left: 650px;
+  }
+
 }
